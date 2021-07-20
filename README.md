@@ -1,6 +1,8 @@
 # { Dream, Develop, Create } 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taanibravo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Taani's GitHub stats](https://github-readme-stats.vercel.app/api?username=taanibravo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🔭 I’m currently working on:
   - Refining my current projects
