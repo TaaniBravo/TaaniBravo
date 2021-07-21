@@ -1,5 +1,8 @@
 # { Dream, Develop, Create }
 
+<a href="https://www.linkedin.com/in/taani-maama/"><image src="https://img.shields.io/badge/linkedin-taani--maama-blue" alt="LinkedIn Profile" /></a>
+<a href="https://www.taani.dev/"><image src="https://img.shields.io/badge/portfolio-taani.dev-purple" alt="Portfolio Site" /></a>
+
 > A full stack engineer that strives for continuous improvement with a strong management background in both the culinary and marketing fields. Helped collaborate and mentor teams that produce high quality outcomes in both the hospitality and marketing industries. With past professional experience, has cultivated a strong skill set to develop creative solutions and create strategic direction in high-stress environments executing with best practices. Graduate of the University of Washington Coding Bootcamp with strengths in communication, collaboration, testing, reliability, and team management.
 
 <hr/>
