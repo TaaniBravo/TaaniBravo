@@ -34,24 +34,16 @@
 
 ### 🔭 I’m currently working on:
 
-- Refining my current projects
-- Building a PERN stack ecommerce
-- OOP with TypeScript
-- TDD with TypeScript
-- Enterprise Design Architectures
-- Design Principles (SOLID, DRY, YAGNI)
+- Providing more value to my current company. 
 
 ### 🌱 I’m currently learning:
 
-- Android Studio using Java
+- Rust
+- Java Microservices
 
 ### 👯 I’m looking to collaborate on:
 
-- MERN JS/TS projects
-
-### 🤔 I’m looking for help with:
-
-- Nothing atm. 🙂
+- Fun open source projects.
 
 ### 📫 How to reach me:
 
